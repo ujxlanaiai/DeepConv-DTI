@@ -138,7 +138,7 @@ For test dataset, you can inform that test dataset has label or not with `-W` va
 
 ```
     --n-epoch N_EPOCH, -e N_EPOCH
-                          The number of epochs for training or validation
+                          The number of epochs for training or validation!
 ```
 
 The number of epoch for model training.
@@ -268,4 +268,3 @@ However, compounds which are found by using DeepConv-DTI follows [CC-BY-NC-4.0](
 hjnam@gist.ac.kr
 
 dlsrnsladlek@gist.ac.kr
-
